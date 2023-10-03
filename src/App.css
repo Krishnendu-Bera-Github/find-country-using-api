@@ -1,0 +1,29 @@
+.main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.country-card {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.search-box {
+  margin: 10px;
+}
+
+.search-box input {
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  outline: none;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+
+.result-stat {
+  color: #c4d5ce;
+  margin: 15px;
+}
